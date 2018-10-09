@@ -38,14 +38,14 @@ import { translationMessages } from './i18n';
 // Import CSS reset and Global Styles
 import './global-styles';
 
-// Observe loading of Roboto (to remove open sans, remove the <link> tag in
+// Observe loading of Roboto (to remove Roboto, remove the <link> tag in
 // the index.html file and this observer)
 const robotoObserver = new FontFaceObserver('Roboto', {});
 
 // Material-ui MUItheme Creator
 const theme = createMuiTheme({});
 
-// When Open Sans is loaded, add a font-family using Open Sans to the body
+// When Roboto is loaded, add a font-family using Roboto to the body
 robotoObserver.load().then(() => {
   document.body.classList.add('fontLoaded');
 });
