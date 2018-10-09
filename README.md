@@ -1,3 +1,13 @@
+<br />
+
+<div align="center"><strong>React Boilerplate for Material Design Apps</strong></div>
+<div align="center">React Boilerplate setup for building Material Design based apps</div>
+
+<dl>
+  <dt>Under construction</dt>
+  <dd>Will add more tools, examples, material design/Google specific components, transition and practices</dd>
+</dl>
+
 <img src="https://raw.githubusercontent.com/react-boilerplate/react-boilerplate-brand/master/assets/banner-metal-optimized.jpg" alt="react boilerplate banner" align="center" />
 
 <br />
